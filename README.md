@@ -1,7 +1,7 @@
 # Hi there! I'm Luccas Oliveira 👋 
 
 
--  Future computer scientist 🤓
+-  Computer scientist 🤓
  
 
 </br>
